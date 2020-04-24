@@ -23,7 +23,7 @@ public class SearchRotatedSortedArray {
         int right=nums.length-1;
 
         while(left<=right) {
-            int mid = (right + left) / 2;
+            int mid = left+(right - left) / 2;
 
             //check whether number is at mid
             if (nums[mid] == target)
