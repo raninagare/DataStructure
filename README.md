@@ -6,9 +6,9 @@
 4. [MergeSort](/src/com/ds/rani/algo/MergeSort.java)
 5. [Search in Rotated Sorted array](/src/com/ds/rani/algo/SearchRotatedSortedArray.java)
 6. [Search in Infinite Sorted array](/src/com/ds/rani/algo/SearchInInfiniteSortedArray.java)
-7.[SearchMinInRotatedSortedArray](/src/com/ds/rani/algo/SerchMinInRotatedSortedArray.java)
-8.[Find PeakElement In array](/src/com/ds/rani/algo/PeakElement.java)
-9.[Find First and LastPos of target In an Array](/src/com/ds/rani/algo/FirstLastPosInArray.java)
+7. [SearchMinInRotatedSortedArray](/src/com/ds/rani/algo/SerchMinInRotatedSortedArray.java)
+8. [Find PeakElement In array](/src/com/ds/rani/algo/PeakElement.java)
+9. [Find First and LastPos of target In an Array](/src/com/ds/rani/algo/FirstLastPosInArray.java)
 
 ## Design
 1. [Implement Singly Linked List.](/src/com/ds/rani/design/LinkedList.java)
