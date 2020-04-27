@@ -32,7 +32,8 @@ class BinarySearch {
     public static void main(String args[])
     {
         BinarySearch ob = new BinarySearch();
-        int arr[] = { 2, 3, 4, 10, 40 };
+        int arr[] = { 10,11,14,17,20,26 };
+
         int n = arr.length;
         int x = 0;
         int result = ob.binarySearch(arr, 0, n - 1, x);
@@ -48,5 +49,8 @@ class BinarySearch {
         else
             System.out.println("Element "+ x +" found at index " + result);
     }
+
+
+
 }
 
