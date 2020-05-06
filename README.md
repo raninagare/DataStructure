@@ -20,11 +20,42 @@
 6. [Implement Stack using Linked List.](/src/com/ds/rani/design/StackAsLinkedList.java)
 7. [Implement Stack using Array](/src/com/ds/rani/design/StackUsingArray.java)
 
+## Array
+1. [Traverse Matrix Digonally](/src/com/ds/rani/array/DigonalMatrix.java)
+2. [Find Disappeared Numbers in an array](/src/com/ds/rani/array/DisappearedNumbers.java)
+3. [Find Minimum and Maximum Number from array](/src/com/ds/rani/array/MinMaxNumber.java)
+4. [Find Missing Number in an array](/src/com/ds/rani/array/MissingNumber.java)
+5. [Product of Array Except Self](/src/com/ds/rani/array/ProductExceptSelf.java)
+6. [Print Matrix in Spiral order](/src/com/ds/rani/array/SpiralMatrix.java)
+
 ## Hashing
 1. [Group Anagrams](/src/com/ds/rani/hashing/GroupAnagrams.java)
 2. [IsomorphicStrings](/src/com/ds/rani/hashing/IsomorphicStrings.java)
-3. [WordPattern](/src/com/ds/rani/hashing/WordPattern.java)
+3. [LongestPalindrome](/src/com/ds/rani/hashing/LongestPalindrome.java)
+4. [Max Length Array](/src/com/ds/rani/hashing/MaxLengthArray.java)
+5. [Sub array Sum equal to k](/src/com/ds/rani/hashing/SubArraySumEqualK.java)
+6. [WordPattern](/src/com/ds/rani/hashing/WordPattern.java)
+7. [Two sum](/src/com/ds/rani/hashing/TwoSum.java)
 
 ## Tree
 1. [Insert an element in a Binary Tree.](/src/com/ds/rani/tree/TreeInsertion.java)
+
+## DFS
+1. [Game of Life](/src/com/ds/rani/dfs/GameOfLife.java)
+
+## Two Pointer Approach
+1. [ContainerWithMostWater](/src/com/ds/rani/twopointers/ContainerWithMostWater.java)
+2. [SortColors](/src/com/ds/rani/twopointers/SortColors.java)
+3. [ThreeSum](/src/com/ds/rani/twopointers/ThreeSum.java)
+
+## Dynamic Programming
+1. [CoinChange](/src/com/ds/rani/dp/CoinChange.java)
+1. [CoinChange2](/src/com/ds/rani/dp/CoinChange2.java)
+1. [DeleteAndEarn](/src/com/ds/rani/dp/DeleteAndEarn.java)
+1. [HouseRobber](/src/com/ds/rani/dp/HouseRobber.java)
+1. [Knapsack](/src/com/ds/rani/dp/Knapsack.java)
+1. [MinFallPathSum](/src/com/ds/rani/dp/MinFallPathSum.java)
+1. [PaintHouse](/src/com/ds/rani/dp/PaintHouse.java)
+
+
 

@@ -1,7 +1,7 @@
 package com.ds.rani.algo;
 
 /**
- * Given an array , I th number in an arry is k distance apart from i-1 and i+1 number.
+ * Given an array , I th number in an array is k distance apart from i-1 and i+1 number.(Array is sorted)
  * There is one number missing in the array find that element.
  */
 public class MissingElement {
