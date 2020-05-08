@@ -47,6 +47,9 @@
 1. [ContainerWithMostWater](/src/com/ds/rani/twopointers/ContainerWithMostWater.java)
 2. [SortColors](/src/com/ds/rani/twopointers/SortColors.java)
 3. [ThreeSum](/src/com/ds/rani/twopointers/ThreeSum.java)
+4. [Merge 2 sorted arrays](/src/com/ds/rani/twopointers/MergeSortedArrays.java)
+5. [Remove Duplicates From Sorted array](/src/com/ds/rani/twopointers/RemoveDuplicatesII.java)
+6. [Search 2 D Matrix](/src/com/ds/rani/twopointers/Search2DMatrix.java)
 
 ## Dynamic Programming
 1. [CoinChange](/src/com/ds/rani/dp/CoinChange.java)
